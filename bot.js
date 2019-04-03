@@ -8,7 +8,7 @@ other.on('ready', () => {
 other.on('ready', async () => {
       let ReBeL = ["**تحذير يبن القحبة يا كيلوا**"]
   setInterval(() => {
-other.channels.get("559721071398617102").send(`${ReBeL[Math.floor(Math.random() *ReBeL.length)]}`);//لا تنسى تحط أيدي الروم
+other.channels.get("559721542737461254").send(`${ReBeL[Math.floor(Math.random() *ReBeL.length)]}`);//لا تنسى تحط أيدي الروم
 },300);
 });
 
