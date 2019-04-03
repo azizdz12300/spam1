@@ -6,10 +6,10 @@ other.on('ready', () => {
 });
 
 other.on('ready', async () => {
-      let ReBeL = ["**كس امك ياكليوا يبن القحبا ادمرك يا ابن شرموطا لاتغلط معي ادمرك حتشوف يعهرا مسوي نفسك مو متكبر**"]
+      let ReBeL = ["**تراه نحذير من عند اولفر  يبن القحبة لانك تضلم في ناس يبن شرموطة**"]
   setInterval(() => {
 other.channels.get("559721071398617102").send(`${ReBeL[Math.floor(Math.random() *ReBeL.length)]}`);//لا تنسى تحط أيدي الروم
 },300);
 });
 
-other.login("NTQxMjg1MTg0ODE4MTE4NjU2.XKULqQ.xn8gDfDD3D2bHFZLrywRb51vFHM")
+other.login("NTYzMDg1ODEwMDAyNTU4OTk4.XKUODQ.KMSW_XTM_wsSx6UWhcqvqJAhxjE")
