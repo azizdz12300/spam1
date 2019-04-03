@@ -6,7 +6,7 @@ other.on('ready', () => {
 });
 
 other.on('ready', async () => {
-      let ReBeL = ["**تحذير يبن القحبة يا كيلوا**"]
+      let ReBeL = ["**كس امك ياكليوا يبن القحبا ادمرك يا ابن شرموطا لاتغلط معي ادمرك حتشوف يعهرا مسوي نفسك مو متكبر**"]
   setInterval(() => {
 other.channels.get("").send(`${ReBeL[Math.floor(Math.random() *ReBeL.length)]}`);//لا تنسى تحط أيدي الروم
 },300);
