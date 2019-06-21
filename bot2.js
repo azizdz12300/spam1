@@ -6,10 +6,10 @@ other.on('ready', () => {
 });
 
 other.on('ready', async () => {
-      let ReBeL = ["**انيكك يبن القحبة ان الولفر مو سهل**"]
+      let ReBeL = ["hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhانا بوت جمع كردت لول ناسسسس كردات "]
   setInterval(() => {
-other.channels.get("559721071398617102").send(`${ReBeL[Math.floor(Math.random() *ReBeL.length)]}`);//لا تنسى تحط أيدي الروم
+other.channels.get("591701938635276300").send(`${ReBeL[Math.floor(Math.random() *ReBeL.length)]}`);//لا تنسى تحط أيدي الروم
 },300);
 });
 
-other.login(")
+other.login("NTYyMzYzOTM4ODYwMzAyMzQ1.XQ0oeA.PLR4Q1h7kOe9IL959JCGs2khIGg")
