@@ -7,10 +7,10 @@ other.on('ready', () => {
 });
 
 other.on('ready', async () => {
-      let ReBeL = ["هلا بلزين تراني بوت تبند اشيلك","هي انا بولعها كريديتس لوووووول","Hi Im Credits Agaaaaaaaaain"]
+      let ReBeL = ["الوووووووووووووووووووو افصح الطريق في بوتت سبام يجمع كردت طيط طيط لولو رح ولعها كردت"]
   setInterval(() => {
 other.channels.get("591701938635276300").send(`${ReBeL[Math.floor(Math.random() *ReBeL.length)]}`);//لا تنسى تحط أيدي الروم
 },300);
 });
 
-other.login("NTA4MDE1OTM2NzkyNjkwNjkw.XQ0rsw.nmDhXDKZOJk_60vUqh5GZQRQYyg")
+other.login("NDE5NDM2NTg4ODg4NzUyMTMw.XQ1GAg.bN3VVLQAQQeiJUtYlcpF7pBNH2E")
