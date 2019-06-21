@@ -1,4 +1,3 @@
-other.login("")
 const Discord = require('discord.js');
 const other = new Discord.Client();
 
@@ -7,7 +6,7 @@ other.on('ready', () => {
 });
 
 other.on('ready', async () => {
-      let ReBeL = ["الوووووووووووووووووووو افصح الطريق في بوتت سبام يجمع كردت طيط طيط لولو رح ولعها كردت"]
+      let ReBeL = ["hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhانا بوت جمع كردت لول ناسسسس كردات "]
   setInterval(() => {
 other.channels.get("591701938635276300").send(`${ReBeL[Math.floor(Math.random() *ReBeL.length)]}`);//لا تنسى تحط أيدي الروم
 },300);
